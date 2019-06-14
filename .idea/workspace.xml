@@ -2,9 +2,196 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62687698-23f9-4e6e-8cf9-395b247bbedd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/my-site/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-site/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-site/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-site/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PersonalWebsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PersonalWebsite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/faces/marc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/new_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/reactlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/sidebar-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/sidebar-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/sidebar-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/sidebar-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/img/tim_80x80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/assets/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/Documentation/tutorial-components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/public/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/bg7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/clem-onojegaw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/clem-onojeghuo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/cynthia-del-rio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/mariya-georgieva.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/olu-eletu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/studio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/studio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/studio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/studio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/examples/studio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/camp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/card-profile1-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/card-profile2-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/card-profile4-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/card-profile5-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/card-profile6-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/christian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/kendall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/faces/marc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/landing-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/landing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/profile-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/img/sign.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/badgeStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/buttonStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/cardBodyStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/cardFooterStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/cardHeaderStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/cardStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/customDropdownStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/customInputStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/customLinearProgressStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/customTabsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/footerStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/headerLinksStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/headerStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/infoStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/navPillsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/paginationStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/parallaxStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/snackbarContentStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/components/typographyStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/customCheckboxRadioSwitch.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/imagesStyles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/modalStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/popoverStyles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/tooltipsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/components.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/basicsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/carouselStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/completedStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/downloadStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/exampleStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/javascriptStyles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/loginStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/navbarsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/notificationsStyles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/pillsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/tabsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/componentsSections/typographyStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/landingPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/landingPageSections/productStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/landingPageSections/teamStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/landingPageSections/workStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/loginPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/jss/material-kit-react/views/profilePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/_misc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/mixins/_colored-shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/variables/_bootstrap-material-design-base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/variables/_bootstrap-material-design.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/variables/_brand.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/variables/_colors-map.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/variables/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/variables/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/variables/_shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/core/variables/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/material-kit-react.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/plugins/_plugin-nouislider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/plugins/_plugin-react-datetime.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/assets/scss/plugins/_plugin-react-slick.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Badge/Badge.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Card/Card.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Card/CardBody.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Card/CardFooter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Card/CardHeader.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Clearfix/Clearfix.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/CustomButtons/Button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/CustomDropdown/CustomDropdown.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/CustomInput/CustomInput.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/CustomLinearProgress/CustomLinearProgress.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/CustomTabs/CustomTabs.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Footer/Footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Grid/GridContainer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Grid/GridItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Header/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Header/HeaderLinks.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/InfoArea/InfoArea.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/NavPills/NavPills.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Pagination/Pagination.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Parallax/Parallax.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Snackbar/SnackbarContent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Typography/Danger.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Typography/Info.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Typography/Muted.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Typography/Primary.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Typography/Quote.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Typography/Small.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Typography/Success.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/components/Typography/Warning.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Components.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionBasics.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionCarousel.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionCompletedExamples.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionDownload.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionExamples.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionJavascript.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionLogin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionNavbars.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionNotifications.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionPills.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionTabs.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/Components/Sections/SectionTypography.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/LandingPage/LandingPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/LandingPage/Sections/ProductSection.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/LandingPage/Sections/TeamSection.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/LandingPage/Sections/WorkSection.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/LoginPage/LoginPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-react-master/src/views/ProfilePage/ProfilePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/views/HomePage/HomePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-site/src/views/HomePage/Sections/AboutMe.jsx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,56 +203,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-site/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-site/src/index.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my-site/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-site/src/views/HomePage/HomePage.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
-              <folding>
-                <element signature="e#299#342#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-site/src/views/HomePage/Sections/AboutMe.jsx">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-site/public/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,7 +214,9 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/my-site/package.json" />
         <option value="$PROJECT_DIR$/my-site/src/views/HomePage/HomePage.jsx" />
+        <option value="$PROJECT_DIR$/my-site/src/assets/jss/material-kit-pro-react/views/ProfilePage.jsx" />
         <option value="$PROJECT_DIR$/my-site/src/index.js" />
+        <option value="$PROJECT_DIR$/my-site/package-lock.json" />
       </list>
     </option>
   </component>
@@ -96,31 +236,6 @@
             <path>
               <item name="PersonalWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="PersonalWebsite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PersonalWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PersonalWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="my-site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PersonalWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PersonalWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="my-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PersonalWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PersonalWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="my-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PersonalWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PersonalWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="my-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,18 +292,17 @@
       <option name="presentableId" value="Default" />
       <updated>1560448009340</updated>
       <workItem from="1560448010561" duration="6167000" />
-      <workItem from="1560526372393" duration="828000" />
+      <workItem from="1560526372393" duration="3678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6995000" />
+    <option name="totallyTimeSpent" value="9845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,9 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-site/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/my-site/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -246,27 +357,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my-site/src/serviceWorker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/my-site/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/my-site/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-site/src/views/HomePage/Sections/AboutMe.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-site/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-site/src/assets/jss/material-kit-pro-react/views/ProfilePage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-site/src/views/HomePage/HomePage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="e#299#342#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -280,29 +405,17 @@
     <entry file="file://$PROJECT_DIR$/my-site/src/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-site/src/views/HomePage/Sections/AboutMe.jsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-site/public/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-site/src/views/HomePage/HomePage.jsx">
+    <entry file="file://$PROJECT_DIR$/my-site/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
-          <folding>
-            <element signature="e#299#342#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-site/src/index.js">
+    <entry file="file://$PROJECT_DIR$/my-site/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-307126">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
