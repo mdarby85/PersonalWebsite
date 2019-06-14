@@ -1,11 +1,20 @@
 {
   "name": "my-site",
   "version": "0.1.0",
+  "engines": {
+    "node": "11.2.0"
+  },
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.1.1",
+    "assets": "^3.0.1",
+    "classnames": "^2.2.6",
+    "history": "latest",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-particles-js": "^2.6.0",
+    "react-scripts": "3.0.1",
+    "react-scrollable-anchor": "^0.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-router": "^5.0.1"
   }
 }
